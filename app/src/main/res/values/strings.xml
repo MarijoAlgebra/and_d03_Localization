@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lokalizacija</string>
+    <string name="tvKraj">Evo mene teksta na kraju tunela..</string>
+    <string name="cb_tri">Treća opcija</string>
+    <string name="cb_dva">Druga opcija</string>
+    <string name="cb_jedan">Prva opcija</string>
+    <string name="b_posalji">Pošalji</string>
+    <string name="et_hint_tekst">Unesi neki tekst ovdje</string>
+    <string name="tvPozdrav">Pozdrav</string>
+</resources>

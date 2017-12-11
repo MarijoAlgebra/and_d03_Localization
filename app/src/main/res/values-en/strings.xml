@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="b_posalji">Send</string>
+    <string name="cb_jedan">First option</string>
+    <string name="cb_tri">Third option</string>
+    <string name="cb_dva">Second option</string>
+    <string name="tvPozdrav">Greetings</string>
+    <string name="et_hint_tekst">Enter some text here</string>
+    <string name="tvKraj">Here I am at the end of the road</string>
+</resources>
